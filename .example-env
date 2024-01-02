@@ -1,0 +1,2 @@
+PROXY="http://log:pass@ip:port" or "http://ip:port" for unprivate proxy
+API_TOKEN="xxx" – telegram bot token
